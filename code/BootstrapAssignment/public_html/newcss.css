@@ -1,0 +1,105 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+.banner{
+    min-width: 600px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: #f8f8f8;
+    background-image: url("img/bg.jpg");
+    background-size: cover;
+}
+.banner_content{
+    max-width: 700px;
+    margin: auto;
+    padding: 12%;
+    text-align: center;
+    background-color: rgba(0,0,0,0.7);
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+.tdecor{
+    text-decoration: none;
+}
+.indexfooter{
+    padding: 10px 0px;
+    background-color: #101010;
+    width: 100%;
+    color: #9d9d9d;
+}
+.row_login{
+    margin-top: 7%;
+}
+.loginfooter{
+    padding: 10px 0px;
+    background-color: #101010;
+    width: 100%;
+    color: #9d9d9d;
+    position: absolute;
+    bottom: 0;
+}
+.row_signup{
+    margin-top: 7%;
+}
+.signupheading{
+    font-weight: bolder;
+}
+.signupfooter{
+    padding: 10px 0px;
+    background-color: #101010;
+    width: 100%;
+    color: #9d9d9d;
+    position: absolute;
+    bottom: 0;
+}
+.row_products{
+    margin-top: 7%;
+}
+.productsfooter{
+    padding: 10px 0px;
+    background-color: #101010;
+    width: 100%;
+    color: #9d9d9d;
+}
+.row_cart{
+    margin-top: 7%;
+}
+.cartfooter{
+    padding: 10px 0px;
+    background-color: #101010;
+    width: 100%;
+    color: #9d9d9d;
+    position: absolute;
+    bottom: 0;
+}
+.row_settings{
+    margin-top: 7%;
+}
+.settingsfooter{
+    padding: 10px 0px;
+    background-color: #101010;
+    width: 100%;
+    color: #9d9d9d;
+    position: absolute;
+    bottom: 0;
+}
+.row_success{
+    margin-top: 7%;
+}
+.successfooter{
+    padding: 10px 0px;
+    background-color: #101010;
+    width: 100%;
+    color: #9d9d9d;
+    position: absolute;
+    bottom: 0;
+}
+
+/* 
+    Created on : 13 Jun, 2021, 1:13:45 AM
+    Author     : deepa
+*/
+
